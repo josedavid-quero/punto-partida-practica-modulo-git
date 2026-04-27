@@ -2,6 +2,7 @@
 
 # Tarea 1 — Fork y configuración inicial
 **fork**: Es una copia de un repositorio que hago en mi cuenta de GitHub. Es la forma de colaborar en proyectos OpenSource.
+
 **upstream**: Es un remoto que, por convención, se llama upstream y que es un remote que apunta al repositorio raíz del que hemos hecho fork.
 
 ![Captura 1](capturas/captura1.PNG)
