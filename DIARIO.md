@@ -10,6 +10,7 @@
 
 # Tarea 2 — Feature branch A: añadir la Opción 5
 Se parte de **dev** porque es la rama para desarrollo e integración, mientras que **main** es la rama de producción.
+
 ![Captura 3](capturas/captura3.PNG)
 
 # Tarea 3 — Feature branch B: añadir la Opción 6 (aquí está el conflicto)
