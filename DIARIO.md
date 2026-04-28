@@ -24,6 +24,22 @@ En la pestaña **Files Changed** revisé los cambios producidos en el fichero **
 ![Captura 4](capturas/captura4.PNG)
 
 # Tarea 5 — Pull Request 2: Feature B a dev, conflicto
+El código que aparece entre **<<<<<<< HEAD** y **=======** son nuestros cambios actuales en la rama **feature/opcion-6**.
+
+El código que aparece entre **=======** y **>>>>>>> origin/dev** son los cambios del fichero en la rama **dev**, que incluyen los cambios de **feature/opcion-5**.
+
+Como se nos indica que nos quedemos la descripción de la Opción 3 **"Flujo profesional"** que es la de nuestra rama acutal, hay que pulsar **Accept Current Change**.
+
+También se nos indica que la app en el navegador debe mostrar todas las opciones visibles, por lo que hay que pulsar **Accept Both Changes**. Eso no es todo, además:
+- Hay que poner las opciones 5 y 6 en su orden correcto.
+- Tenemos que cerrar y abrir las llaves entre opciones correctamente.
+- Falta añadir la línea **feature=false** en la Opción 6.
+- Hay que añadir el fichero **.env** con el contenido **VITE_FEATURE_OPCION_3=true** para que se vea la Opción 3.
+- Hay que descomentar la Opción 4 para que también se vea.
 
 ![Captura 5](capturas/captura5.PNG)
+
+![Captura 6](capturas/captura6.PNG)
+
+![Captura 7](capturas/captura7.PNG)
 
