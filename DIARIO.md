@@ -17,3 +17,9 @@ Se parte de **dev** porque es la rama para desarrollo e integración, mientras q
 Un conflicto se produce cuando dos personas modifican el mismo fichero a la vez e intentan fusionarlo, de forma que Git se encuentra con dos versiones diferentes de la misma línea y no sabe cuál es la correcta.
 
 En nuestro caso, tanto la rama **feature/opcion-5** como la rama **feature/opcion-6** parten de la rama **dev** y modifican el campo **description** de la **Opción 3** del fichero **app.tsx**. Cuando se intenten fusionar ambas ramas a **dev** se producirá el conflicto y deberemos decidir cuál de los dos cambios es el correcto.
+
+# Tarea 4 — Pull Request 1: Feature A a dev
+En la pestaña **Files Changed** revisé los cambios producidos en el fichero **app.txs** en la rama **feature/opcion-5** respecto del mismo fichero en la rama **dev** desde donde se creó dicha rama. Esto es útil para saber si se trata de cambios conflictivos para poder tomar la decisión sobre incorporarlos o no a la rama **dev**. En nuestro caso vemos cómo se ha modificado la descripción de la **Opción 3** y se ha añadido la **Opción 5** y, como nos parece correcto, hacemos **Merge** para incorporarlos.
+
+![Captura 4](capturas/captura4.PNG)
+
