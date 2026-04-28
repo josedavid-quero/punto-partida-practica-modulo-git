@@ -23,3 +23,7 @@ En la pestaña **Files Changed** revisé los cambios producidos en el fichero **
 
 ![Captura 4](capturas/captura4.PNG)
 
+# Tarea 5 — Pull Request 2: Feature B a dev, conflicto
+
+![Captura 5](capturas/captura5.PNG)
+
