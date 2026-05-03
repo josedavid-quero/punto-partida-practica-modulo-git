@@ -43,3 +43,8 @@ También se nos indica que la app en el navegador debe mostrar todas las opcione
 
 ![Captura 7](capturas/captura7.PNG)
 
+# Tarea 6 — Limpieza y cierre del diario
+
+Con lo que me he tenido que "pelear" más es con las Pull Request, ya que yo estaba acostumbrado a hacerlo todo desde el interfaz gráfico de Visual Studio. Relacionado con esto, he aprendido a utilizar Git con comandos.
+
+![Captura 8](capturas/captura8.PNG)
